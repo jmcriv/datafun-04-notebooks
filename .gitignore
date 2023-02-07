@@ -1,6 +1,6 @@
 #### IGNORE / DON't COMMIT THESE FILES TO THE REPO
 
-# Files with secrets (e.g. our email and password)
+# Files with secrets (e.g. our email and password) 
 
 .env
 .env.toml
